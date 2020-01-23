@@ -1,0 +1,6 @@
+C:\Users\Alaa Saeed\Desktop\SoftwareCMS\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\Alaa Saeed\Desktop\SoftwareCMS\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Alaa Saeed\Desktop\SoftwareCMS\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Alaa Saeed\Desktop\SoftwareCMS\Poker\Poker\obj\Debug\Poker.csprojAssemblyReference.cache
+C:\Users\Alaa Saeed\Desktop\SoftwareCMS\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\Alaa Saeed\Desktop\SoftwareCMS\Poker\Poker\obj\Debug\Poker.pdb
